@@ -1,0 +1,6 @@
+D:\Documents\Softuni\OOP\Defining Classes\Laptop Shop\bin\Debug\Laptop Shop.exe.config
+D:\Documents\Softuni\OOP\Defining Classes\Laptop Shop\bin\Debug\Laptop Shop.exe
+D:\Documents\Softuni\OOP\Defining Classes\Laptop Shop\bin\Debug\Laptop Shop.pdb
+D:\Documents\Softuni\OOP\Defining Classes\Laptop Shop\obj\Debug\Laptop Shop.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\OOP\Defining Classes\Laptop Shop\obj\Debug\Laptop Shop.exe
+D:\Documents\Softuni\OOP\Defining Classes\Laptop Shop\obj\Debug\Laptop Shop.pdb
