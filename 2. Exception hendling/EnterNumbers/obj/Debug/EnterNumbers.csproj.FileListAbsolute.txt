@@ -1,0 +1,6 @@
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\EnterNumbers\bin\Debug\EnterNumbers.exe
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\EnterNumbers\bin\Debug\EnterNumbers.pdb
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\EnterNumbers\obj\Debug\EnterNumbers.exe
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\EnterNumbers\obj\Debug\EnterNumbers.pdb

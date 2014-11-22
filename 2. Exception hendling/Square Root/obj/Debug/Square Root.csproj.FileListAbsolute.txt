@@ -1,0 +1,6 @@
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\Square Root\bin\Debug\Square Root.exe.config
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\Square Root\bin\Debug\Square Root.exe
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\Square Root\bin\Debug\Square Root.pdb
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\Square Root\obj\Debug\Square Root.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\Square Root\obj\Debug\Square Root.exe
+D:\Documents\Softuni\OOP\2. Static Members and Namespaces\Square Root\obj\Debug\Square Root.pdb
