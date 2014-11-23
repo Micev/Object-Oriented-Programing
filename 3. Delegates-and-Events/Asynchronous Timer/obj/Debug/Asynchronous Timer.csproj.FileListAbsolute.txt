@@ -1,0 +1,6 @@
+D:\Documents\Softuni\OOP\3. Delegates-and-Events\Asynchronous Timer\bin\Debug\Asynchronous Timer.exe.config
+D:\Documents\Softuni\OOP\3. Delegates-and-Events\Asynchronous Timer\bin\Debug\Asynchronous Timer.exe
+D:\Documents\Softuni\OOP\3. Delegates-and-Events\Asynchronous Timer\bin\Debug\Asynchronous Timer.pdb
+D:\Documents\Softuni\OOP\3. Delegates-and-Events\Asynchronous Timer\obj\Debug\Asynchronous Timer.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\OOP\3. Delegates-and-Events\Asynchronous Timer\obj\Debug\Asynchronous Timer.exe
+D:\Documents\Softuni\OOP\3. Delegates-and-Events\Asynchronous Timer\obj\Debug\Asynchronous Timer.pdb
