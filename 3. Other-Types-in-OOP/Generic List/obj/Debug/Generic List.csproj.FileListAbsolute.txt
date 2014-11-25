@@ -1,0 +1,6 @@
+D:\Documents\Softuni\OOP\3. Other-Types-in-OOP\Generic List\bin\Debug\Generic List.exe.config
+D:\Documents\Softuni\OOP\3. Other-Types-in-OOP\Generic List\bin\Debug\Generic List.exe
+D:\Documents\Softuni\OOP\3. Other-Types-in-OOP\Generic List\bin\Debug\Generic List.pdb
+D:\Documents\Softuni\OOP\3. Other-Types-in-OOP\Generic List\obj\Debug\Generic List.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\OOP\3. Other-Types-in-OOP\Generic List\obj\Debug\Generic List.exe
+D:\Documents\Softuni\OOP\3. Other-Types-in-OOP\Generic List\obj\Debug\Generic List.pdb
