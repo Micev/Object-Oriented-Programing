@@ -1,0 +1,6 @@
+D:\Documents\Softuni\OOP\4. Functional-Programming\Functional-Programming\StringBuilder\bin\Debug\StringBuilder.exe.config
+D:\Documents\Softuni\OOP\4. Functional-Programming\Functional-Programming\StringBuilder\bin\Debug\StringBuilder.exe
+D:\Documents\Softuni\OOP\4. Functional-Programming\Functional-Programming\StringBuilder\bin\Debug\StringBuilder.pdb
+D:\Documents\Softuni\OOP\4. Functional-Programming\Functional-Programming\StringBuilder\obj\Debug\StringBuilder.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\OOP\4. Functional-Programming\Functional-Programming\StringBuilder\obj\Debug\StringBuilder.exe
+D:\Documents\Softuni\OOP\4. Functional-Programming\Functional-Programming\StringBuilder\obj\Debug\StringBuilder.pdb
