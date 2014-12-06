@@ -1,0 +1,6 @@
+D:\Documents\Softuni\OOP\7. Common-Type-System\Customer\bin\Debug\Customer.exe.config
+D:\Documents\Softuni\OOP\7. Common-Type-System\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+D:\Documents\Softuni\OOP\7. Common-Type-System\Customer\bin\Debug\Customer.exe
+D:\Documents\Softuni\OOP\7. Common-Type-System\Customer\bin\Debug\Customer.pdb
+D:\Documents\Softuni\OOP\7. Common-Type-System\Customer\obj\Debug\Customer.exe
+D:\Documents\Softuni\OOP\7. Common-Type-System\Customer\obj\Debug\Customer.pdb
